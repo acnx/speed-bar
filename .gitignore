@@ -1,0 +1,5 @@
+# 构建产物（由 build.sh 生成，可随时重建）
+build/
+
+# Finder 元数据
+.DS_Store
